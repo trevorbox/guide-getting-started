@@ -9,6 +9,7 @@
         <feature>mpHealth-3.1</feature>
         <!-- end::mpHealth[] -->
         <feature>mpConfig-2.0</feature>
+        <feature>appSecurity-3.0</feature>
     </featureManager>
     <!-- end::features[] -->
 
